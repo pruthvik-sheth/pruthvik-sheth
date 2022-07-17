@@ -1,4 +1,4 @@
-[![MasterHead](Cover photo3.png)](https://pruthvik-sheth-09.vercel.app/)
+
 
 # Hi, I'm Pruthvik 👋🏾 
 
