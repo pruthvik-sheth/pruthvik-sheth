@@ -20,11 +20,12 @@ things with an optimistic attitude, taking problems head-on. Currently, I am pur
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=151320&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/anuraghazra/github-readme-stats" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=151320&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/anuraghazra/github-readme-stats" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=151320&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/anuraghazra/github-readme-stats" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=151320&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/anuraghazra/github-readme-stats" alt="github-readme-streak-stats"></a>
+  <p align="center">
+    <a href="https://github.com/pruthvik00911/earthquakes-3d-visualizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=earthquakes-3d-visualizer&theme=react&bg_color=48426d&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik00911/E-Commerce-Web-Application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=E-Commerce-Web-Application&theme=react&bg_color=48426d&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik00911/Most-secure-password-checker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=Most-secure-password-checker&theme=react&bg_color=48426d&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik00911/HackCatcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=HackCatcher&theme=react&bg_color=48426d&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    
     
   </p>
 </details>
@@ -76,8 +77,5 @@ things with an optimistic attitude, taking problems head-on. Currently, I am pur
 </p>
 
 </details>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=151320&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
