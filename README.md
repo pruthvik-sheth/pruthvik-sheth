@@ -52,7 +52,7 @@ things with an optimistic attitude, taking problems head-on. Currently, I am pur
 
 #
 
-<details close> 
+<details open> 
   <summary><h2>📈 Profile Statistics</h2></summary>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=pruthvik00911&theme=highcontrast&hide_border=true&stroke=F0A500&fire=F0A500&ring=F0A500&currStreakLabel=F0A500&background=DDDDDD00" alt="Typing SVG" />
