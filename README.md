@@ -5,7 +5,7 @@
 </p>
 
 
-##😃 About Me
+## 😃 About Me
 
 <p align="left">
 Hey there, I am an enthusiastic individual who loves to learn new
