@@ -16,15 +16,13 @@ things with an optimistic attitude, taking problems head-on. Currently, I am pur
 #
 
 <details open> 
-  <summary><h2>📘 Some of my projects</h2></summary>
+  <summary><h2>💻 Some of my projects</h2></summary>
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="center">
-    <a href="https://github.com/pruthvik00911/earthquakes-3d-visualizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=earthquakes-3d-visualizer&theme=react&bg_color=48426d&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/pruthvik00911/E-Commerce-Web-Application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=E-Commerce-Web-Application&theme=react&bg_color=48426d&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/pruthvik00911/Most-secure-password-checker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=Most-secure-password-checker&theme=react&bg_color=48426d&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/pruthvik00911/HackCatcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=HackCatcher&theme=react&bg_color=48426d&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik00911/earthquakes-3d-visualizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=earthquakes-3d-visualizer&theme=react&bg_color=1e1d26&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik00911/E-Commerce-Web-Application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=E-Commerce-Web-Application&theme=react&bg_color=1e1d26&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik00911/Most-secure-password-checker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=Most-secure-password-checker&theme=react&bg_color=1e1d26&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik00911/HackCatcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=HackCatcher&theme=react&bg_color=1e1d26&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     
     
   </p>
@@ -61,6 +59,7 @@ things with an optimistic attitude, taking problems head-on. Currently, I am pur
   
   <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 
+<br/>
 <br/>
 <br/>
 
