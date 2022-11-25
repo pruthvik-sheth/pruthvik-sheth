@@ -5,7 +5,7 @@
 </p>
 
 <details open> 
-  <summary><h2 style="color: #F0C38E">😃 About Me</h2></summary>
+  <summary><h2><span style="color: #F0C38E;">😃 About Me</span> </h2></summary>
 <p align="left">
 Hey there, I am an enthusiastic individual who loves to learn new
 things with an optimistic attitude, taking problems head-on. Currently, I am pursuing my Bachelor of Engineering degree in Computer Engineering field of study at Vishwakarma Govt. Engineering College.
