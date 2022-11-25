@@ -5,7 +5,7 @@
 </p>
 
 <details open> 
-  <summary><h1>😃 About Me</h1></summary>
+  <summary><h2>😃 About Me</h2></summary>
 <p align="left">
 Hey there, I am an enthusiastic individual who loves to learn new
 things with an optimistic attitude, taking problems head-on. Currently, I am pursuing my Bachelor of Engineering degree in Computer Engineering field of study at Vishwakarma Govt. Engineering College.
@@ -16,7 +16,7 @@ things with an optimistic attitude, taking problems head-on. Currently, I am pur
 #
 
 <details open> 
-  <summary><h1>🔧 Languages & Tools</h1></summary>
+  <summary><h2>🔧 Languages & Tools</h2></summary>
 
 <br>
 
@@ -53,7 +53,7 @@ things with an optimistic attitude, taking problems head-on. Currently, I am pur
 #
 
 <details close> 
-  <summary><h1>📈 Profile Statistics</h1></summary>
+  <summary><h2>📈 Profile Statistics</h2></summary>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=pruthvik00911&theme=highcontrast&hide_border=true&stroke=F0A500&fire=F0A500&ring=F0A500&currStreakLabel=F0A500&background=DDDDDD00" alt="Typing SVG" />
 
