@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=earthquakes-3d-visualizer&bg_color=DDDDDD00 alt="Typing SVG" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=earthquakes-3d-visualizer" alt="Typing SVG" />
 </p>
 
 
