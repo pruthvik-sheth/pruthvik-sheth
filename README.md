@@ -17,10 +17,8 @@ things with an optimistic attitude, taking problems head-on. Currently, I am pur
 <details open> 
   <summary><h1>🔧 Languages & Tools</h1></summary>
 
+<br>
 
-  
-  <p align="center">
-  
   <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   
   <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
@@ -45,7 +43,10 @@ things with an optimistic attitude, taking problems head-on. Currently, I am pur
   
   <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 
-  </p>
+  <br>
+<br>
+
+
 
 
           
