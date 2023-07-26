@@ -19,10 +19,11 @@ things with an optimistic attitude, taking problems head-on. Currently, I am pur
   <summary><h2>💻 Some of my projects</h2></summary>
 
   <p align="center">
+    <a href="https://github.com/pruthvik00911/deep-neural-net-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=deep-neural-net-from-scratch&theme=react&bg_color=181b28&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/pruthvik00911/earthquakes-3d-visualizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=earthquakes-3d-visualizer&theme=react&bg_color=181b28&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/pruthvik00911/E-Commerce-Web-Application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=E-Commerce-Web-Application&theme=react&bg_color=181b28&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/pruthvik00911/Most-secure-password-checker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=Most-secure-password-checker&theme=react&bg_color=181b28&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/pruthvik00911/HackCatcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=HackCatcher&theme=react&bg_color=181b28&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    
     
     
   </p>
