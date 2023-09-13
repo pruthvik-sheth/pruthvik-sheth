@@ -1,14 +1,13 @@
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=900&size=32&duration=4000&pause=500&color=F0C38E&background=181b28&center=true&vCenter=true&width=900&height=200&lines=Hey%2C+I'm+Pruthvik+Sheth 👋;AI+Engineer;Full+Stack+Web+Developer;Digital+Craftsman" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=900&size=32&duration=4000&pause=500&color=F0C38E&background=181b28&center=true&vCenter=true&width=900&height=200&lines=Hey%2C+I'm+Pruthvik+Sheth 👋;Data+Scientist;Full+Stack+Web+Developer;Digital+Craftsman" alt="Typing SVG" />
 </p>
 
 <details open> 
   <summary><h2>😃 About Me</h2></summary>
 <p align="left">
-Hey there, I am an enthusiastic individual who loves to learn new
-things with an optimistic attitude, taking problems head-on. Currently, I am pursuing my Bachelor of Engineering degree in Computer Engineering field of study at Vishwakarma Govt. Engineering College.
+Hey there, I am a passionate data scientist with an insatiable curiosity for all things related to the world of data and its intricate patterns. My days are immersed in the realm of algorithms, statistics, and machine learning, where I unravel complex insights from seemingly chaotic information. Beyond my professional endeavors, my heart beats for the wonders of science and its captivating narratives. Whether it's the unfolding mysteries of the cosmos or the intricate workings of our own planet, I find solace in the realm of scientific stories.
 </p>
 
 </details>
