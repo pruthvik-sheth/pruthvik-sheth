@@ -15,13 +15,13 @@ Hey there, I am a passionate data scientist with an insatiable curiosity for all
 #
 
 <details open> 
-  <summary><h2>💻 Some of my projects</h2></summary>
+  <summary><h2>💻 Open Source Projects</h2></summary>
 
   <p align="center">
+    <a href="https://github.com/pruthvik00911/google-images-scraper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=google-images-scraper&theme=react&bg_color=090909&title_color=cab1cd&hide_border=true&icon_color=5E5B5A&text_color=7bbcb0&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/pruthvik00911/deep-neural-net-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=deep-neural-net-from-scratch&theme=react&bg_color=090909&title_color=cab1cd&hide_border=true&icon_color=5E5B5A&text_color=7bbcb0&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/pruthvik00911/earthquakes-3d-visualizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=earthquakes-3d-visualizer&theme=react&bg_color=090909&title_color=cab1cd&hide_border=true&icon_color=5E5B5A&text_color=7bbcb0&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/pruthvik00911/E-Commerce-Web-Application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=E-Commerce-Web-Application&theme=react&bg_color=090909&title_color=cab1cd&hide_border=true&icon_color=5E5B5A&text_color=7bbcb0&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/pruthvik00911/Most-secure-password-checker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=Most-secure-password-checker&theme=react&bg_color=090909&title_color=cab1cd&hide_border=true&icon_color=5E5B5A&text_color=7bbcb0&show_icons=false" alt="github-readme-streak-stats"></a>
     
     
     
