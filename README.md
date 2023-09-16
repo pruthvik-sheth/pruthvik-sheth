@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=900&size=32&duration=4000&pause=500&color=090909&background=dfd9d4&center=true&vCenter=true&width=900&height=200&lines=Hey%2C+I'm+Pruthvik+Sheth 👋;Data+Scientist;Full+Stack+Web+Developer;Digital+Craftsman" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=900&size=32&duration=4000&pause=500&color=8F43EE&background=2D2727&center=true&vCenter=true&width=900&height=200&lines=Hey%2C+I'm+Pruthvik+Sheth 👋;Data+Scientist;Full+Stack+Web+Developer;Digital+Craftsman" alt="Typing SVG" />
 </p>
 
 <details open> 
@@ -18,10 +18,10 @@ Hey there, I am a passionate data scientist with an insatiable curiosity for all
   <summary><h2>💻 Some of my projects</h2></summary>
 
   <p align="center">
-    <a href="https://github.com/pruthvik00911/deep-neural-net-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=deep-neural-net-from-scratch&theme=react&bg_color=dfd9d4&title_color=090909&hide_border=true&icon_color=5E5B5A&text_color=090909&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/pruthvik00911/earthquakes-3d-visualizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=earthquakes-3d-visualizer&theme=react&bg_color=dfd9d4&title_color=090909&hide_border=true&icon_color=5E5B5A&text_color=090909&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/pruthvik00911/E-Commerce-Web-Application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=E-Commerce-Web-Application&theme=react&bg_color=dfd9d4&title_color=090909&hide_border=true&icon_color=5E5B5A&text_color=090909&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/pruthvik00911/Most-secure-password-checker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=Most-secure-password-checker&theme=react&bg_color=dfd9d4&title_color=090909&hide_border=true&icon_color=5E5B5A&text_color=090909&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik00911/deep-neural-net-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=deep-neural-net-from-scratch&theme=react&bg_color=2D2727&title_color=8F43EE&hide_border=true&icon_color=F0EB8D&text_color=F0EB8D&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik00911/earthquakes-3d-visualizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=earthquakes-3d-visualizer&theme=react&bg_color=2D2727&title_color=8F43EE&hide_border=true&icon_color=F0EB8D&text_color=F0EB8D&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik00911/E-Commerce-Web-Application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=E-Commerce-Web-Application&theme=react&bg_color=2D2727&title_color=8F43EE&hide_border=true&icon_color=F0EB8D&text_color=F0EB8D&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik00911/Most-secure-password-checker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=Most-secure-password-checker&theme=react&bg_color=2D2727&title_color=8F43EE&hide_border=true&icon_color=F0EB8D&text_color=F0EB8D&show_icons=false" alt="github-readme-streak-stats"></a>
     
     
     
