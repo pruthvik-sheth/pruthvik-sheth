@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=900&size=32&duration=4000&pause=500&color=F0C38E&background=181b28&center=true&vCenter=true&width=900&height=200&lines=Hey%2C+I'm+Pruthvik+Sheth 👋;Data+Scientist;Full+Stack+Web+Developer;Digital+Craftsman" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=900&size=32&duration=4000&pause=500&color=090909&background=dfd9d4&center=true&vCenter=true&width=900&height=200&lines=Hey%2C+I'm+Pruthvik+Sheth 👋;Data+Scientist;Full+Stack+Web+Developer;Digital+Craftsman" alt="Typing SVG" />
 </p>
 
 <details open> 
@@ -18,10 +18,10 @@ Hey there, I am a passionate data scientist with an insatiable curiosity for all
   <summary><h2>💻 Some of my projects</h2></summary>
 
   <p align="center">
-    <a href="https://github.com/pruthvik00911/deep-neural-net-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=deep-neural-net-from-scratch&theme=react&bg_color=181b28&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/pruthvik00911/earthquakes-3d-visualizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=earthquakes-3d-visualizer&theme=react&bg_color=181b28&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/pruthvik00911/E-Commerce-Web-Application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=E-Commerce-Web-Application&theme=react&bg_color=181b28&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/pruthvik00911/Most-secure-password-checker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=Most-secure-password-checker&theme=react&bg_color=181b28&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik00911/deep-neural-net-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=deep-neural-net-from-scratch&theme=react&bg_color=dfd9d4&title_color=090909&hide_border=true&icon_color=5E5B5A&text_color=090909&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik00911/earthquakes-3d-visualizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=earthquakes-3d-visualizer&theme=react&bg_color=dfd9d4&title_color=090909&hide_border=true&icon_color=5E5B5A&text_color=090909&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik00911/E-Commerce-Web-Application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=E-Commerce-Web-Application&theme=react&bg_color=dfd9d4&title_color=090909&hide_border=true&icon_color=5E5B5A&text_color=090909&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik00911/Most-secure-password-checker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=Most-secure-password-checker&theme=react&bg_color=dfd9d4&title_color=090909&hide_border=true&icon_color=5E5B5A&text_color=090909&show_icons=false" alt="github-readme-streak-stats"></a>
     
     
     
@@ -70,11 +70,10 @@ Hey there, I am a passionate data scientist with an insatiable curiosity for all
 
 <details open> 
   <summary><h2>📈 Profile Statistics</h2></summary>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=pruthvik00911&theme=highcontrast&hide_border=true&stroke=F0C38E&fire=F0C38E&ring=F0C38E&currStreakLabel=F0C38E&background=DDDDDD00" alt="Typing SVG" />
-
-</p>
-
+  <p align="center">
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=pruthvik00911&theme=highcontrast&hide_border=true&background=DFD9D4&stroke=5E5B5A&ring=5E5B5A&fire=5E5B5A&currStreakNum=090909&sideNums=090909&sideLabels=090909&dates=090909&currStreakLabel=090909"/></a>
+  </p>
+  
 </details>
 
 
