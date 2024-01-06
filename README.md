@@ -18,10 +18,10 @@ Hey there, I am a passionate data scientist with an insatiable curiosity for all
   <summary><h2>💻 Open Source Projects</h2></summary>
 
   <p align="center">
-    <a href="https://github.com/pruthvik00911/google-images-scraper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=google-images-scraper&theme=react&bg_color=090909&title_color=cab1cd&hide_border=true&icon_color=5E5B5A&text_color=7bbcb0&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/pruthvik00911/deep-neural-net-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=deep-neural-net-from-scratch&theme=react&bg_color=090909&title_color=cab1cd&hide_border=true&icon_color=5E5B5A&text_color=7bbcb0&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/pruthvik00911/earthquakes-3d-visualizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=earthquakes-3d-visualizer&theme=react&bg_color=090909&title_color=cab1cd&hide_border=true&icon_color=5E5B5A&text_color=7bbcb0&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/pruthvik00911/E-Commerce-Web-Application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=E-Commerce-Web-Application&theme=react&bg_color=090909&title_color=cab1cd&hide_border=true&icon_color=5E5B5A&text_color=7bbcb0&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik-sheth/google-images-scraper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik-sheth&repo=google-images-scraper&theme=react&bg_color=090909&title_color=cab1cd&hide_border=true&icon_color=5E5B5A&text_color=7bbcb0&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik-sheth/deep-neural-net-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik-sheth&repo=deep-neural-net-from-scratch&theme=react&bg_color=090909&title_color=cab1cd&hide_border=true&icon_color=5E5B5A&text_color=7bbcb0&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik-sheth/earthquakes-3d-visualizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik-sheth&repo=earthquakes-3d-visualizer&theme=react&bg_color=090909&title_color=cab1cd&hide_border=true&icon_color=5E5B5A&text_color=7bbcb0&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik-sheth/E-Commerce-Web-Application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik-sheth&repo=E-Commerce-Web-Application&theme=react&bg_color=090909&title_color=cab1cd&hide_border=true&icon_color=5E5B5A&text_color=7bbcb0&show_icons=false" alt="github-readme-streak-stats"></a>
     
     
     
@@ -71,7 +71,7 @@ Hey there, I am a passionate data scientist with an insatiable curiosity for all
 <details open> 
   <summary><h2>📈 Profile Statistics</h2></summary>
   <p align="center">
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=pruthvik00911&theme=highcontrast&hide_border=true&background=090909&stroke=5E5B5A&ring=7bbcb0&fire=7bbcb0&currStreakNum=cab1cd&sideNums=cab1cd&sideLabels=cab1cd&dates=cab1cd&currStreakLabel=cab1cd"/></a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=pruthvik-sheth&theme=highcontrast&hide_border=true&background=090909&stroke=5E5B5A&ring=7bbcb0&fire=7bbcb0&currStreakNum=cab1cd&sideNums=cab1cd&sideLabels=cab1cd&dates=cab1cd&currStreakLabel=cab1cd"/></a>
   </p>
   
 </details>
