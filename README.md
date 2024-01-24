@@ -1,7 +1,5 @@
-
-
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=900&size=32&duration=4000&pause=500&color=7bbcb0&background=090909&center=true&vCenter=true&width=900&height=200&lines=Hey%2C+I'm+Pruthvik+Sheth 👋;Data+Scientist;Full+Stack+Web+Developer;Digital+Craftsman" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=900&size=32&duration=4000&pause=500&color=ea6947&background=202020&center=true&vCenter=true&width=900&height=200&lines=Hey%2C+I'm+Pruthvik+Sheth 👋;Data+Scientist;Full+Stack+Web+Developer;Digital+Craftsman" alt="Typing SVG" />
 </p>
 
 <details open> 
@@ -18,10 +16,10 @@ Hey there, I am a passionate data scientist with an insatiable curiosity for all
   <summary><h2>💻 Open Source Projects</h2></summary>
 
   <p align="center">
-    <a href="https://github.com/pruthvik-sheth/google-images-scraper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik-sheth&repo=google-images-scraper&theme=react&bg_color=090909&title_color=cab1cd&hide_border=true&icon_color=5E5B5A&text_color=7bbcb0&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/pruthvik-sheth/deep-neural-net-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik-sheth&repo=deep-neural-net-from-scratch&theme=react&bg_color=090909&title_color=cab1cd&hide_border=true&icon_color=5E5B5A&text_color=7bbcb0&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/pruthvik-sheth/earthquakes-3d-visualizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik-sheth&repo=earthquakes-3d-visualizer&theme=react&bg_color=090909&title_color=cab1cd&hide_border=true&icon_color=5E5B5A&text_color=7bbcb0&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/pruthvik-sheth/E-Commerce-Web-Application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik-sheth&repo=E-Commerce-Web-Application&theme=react&bg_color=090909&title_color=cab1cd&hide_border=true&icon_color=5E5B5A&text_color=7bbcb0&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik-sheth/google-images-scraper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik-sheth&repo=google-images-scraper&theme=react&bg_color=202020&title_color=ea6947&hide_border=true&icon_color=5E5B5A&text_color=b65237&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik-sheth/deep-neural-net-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik-sheth&repo=deep-neural-net-from-scratch&theme=react&bg_color=202020&title_color=ea6947&hide_border=true&icon_color=5E5B5A&text_color=b65237&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik-sheth/earthquakes-3d-visualizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik-sheth&repo=earthquakes-3d-visualizer&theme=react&bg_color=202020&title_color=ea6947&hide_border=true&icon_color=5E5B5A&text_color=b65237&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/pruthvik-sheth/E-Commerce-Web-Application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik-sheth&repo=E-Commerce-Web-Application&theme=react&bg_color=202020&title_color=ea6947&hide_border=true&icon_color=5E5B5A&text_color=b65237&show_icons=false" alt="github-readme-streak-stats"></a>
     
     
     
@@ -65,15 +63,12 @@ Hey there, I am a passionate data scientist with an insatiable curiosity for all
 
 </details>
 
-
 #
 
 <details open> 
   <summary><h2>📈 Profile Statistics</h2></summary>
   <p align="center">
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=pruthvik-sheth&theme=highcontrast&hide_border=true&background=090909&stroke=5E5B5A&ring=7bbcb0&fire=7bbcb0&currStreakNum=cab1cd&sideNums=cab1cd&sideLabels=cab1cd&dates=cab1cd&currStreakLabel=cab1cd"/></a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=pruthvik-sheth&theme=highcontrast&hide_border=true&background=202020&stroke=5E5B5A&ring=ea6947&fire=ea6947&currStreakNum=ea6947&sideNums=ea6947&sideLabels=ea6947&dates=ea6947&currStreakLabel=ea6947"/></a>
   </p>
   
 </details>
-
-
