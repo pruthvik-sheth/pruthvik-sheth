@@ -1,1 +1,1 @@
-Hiiii I am Pruthvik Sheth
+![Product Image](my_profile.svg)
