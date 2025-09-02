@@ -1,1 +1,1 @@
-Hii I am Pruthvik Sheth
+![My Profile](my_profile.svg)
