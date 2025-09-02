@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1062px" height="2000px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1062px" height="1950px" font-size="16px">
 <style>
 
 @font-face {
@@ -19,7 +19,7 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 
 </style>
-<rect width="1062px" height="2000px" fill="#161b22" rx="15"/>
+<rect width="1062px" height="1950px" fill="#161b22" rx="15"/>
 <text x="15" y="30" class="ascii">
 <tspan x="15" y="30">          ....:::::------==:.                </tspan>
 <tspan x="15" y="50">        .:::::::::::--=++===++:              </tspan>
@@ -73,12 +73,11 @@ text, tspan {white-space: pre;}
 <tspan x="480" y="395" class="key">$ cat achievements.log</tspan>
 <tspan x="480" y="415" class="addColor">• MS @ SJSU (GPA: 3.90/4.0)</tspan>
 <tspan x="480" y="435" class="addColor">• $6,000 EES Scholarship winner</tspan>
-<tspan x="480" y="455" class="addColor">• 97% YOLOv8 accuracy on 80k+ images</tspan>
-<tspan x="480" y="475" class="addColor">• 94% crypto forecasting accuracy</tspan>
-<tspan x="480" y="495" class="addColor">• 600k monthly visitors with AI content</tspan>
+<tspan x="480" y="455" class="addColor">• 600k monthly visitors with AI content</tspan>
 
-<tspan x="480" y="525" class="key">$ contact --info</tspan>
-<tspan x="480" y="545" class="value">pruthvik.sheth@gmail.com | +1 908-219-2446</tspan>
+<tspan x="480" y="485" class="key">$ contact --info</tspan>
+<tspan x="480" y="505" class="value">pruthvik.sheth@gmail.com</tspan>
+<tspan x="480" y="525" class="value">linkedin.com/in/pruthvik-sheth</tspan>
 </text>
 
 <!-- Featured Projects Panel -->
@@ -133,46 +132,44 @@ text, tspan {white-space: pre;}
 <!-- Latest Blogs & Articles Panel -->
 <text x="15" y="1230">
 <tspan x="15" y="1230" class="header">- Latest Blogs &amp; Articles -——————————————————————————————————————————————————————————————————————</tspan>
-<tspan x="15" y="1260">• <tspan class="value">Fine-tuning Stable Diffusion for Architectural Design</tspan></tspan>
-<tspan x="15" y="1280">• <tspan class="value">Building Production RAG Systems with LangChain and Pinecone</tspan></tspan>
-<tspan x="15" y="1300">• <tspan class="value">YOLOv8 Object Detection: From Dataset to Production</tspan></tspan>
-<tspan x="15" y="1320">• <tspan class="value">Scaling ML Models with Kubernetes and Docker</tspan></tspan>
-<tspan x="15" y="1340">• <tspan class="value">Real-time AI Applications with Socket.IO and React</tspan></tspan>
-<tspan x="15" y="1360">• <tspan class="value">LLM Fine-tuning on Custom Datasets: A Practical Guide</tspan></tspan>
-<tspan x="15" y="1380">• <tspan class="value">Microservices Architecture for ML Applications</tspan></tspan>
+<tspan x="15" y="1260">• <tspan class="value">TabPFN: A Revolutionary Transformer for Tabular Classification in Seconds</tspan></tspan>
+<tspan x="15" y="1280">• <tspan class="value">Distributional Reduction: A Novel Framework Unifying Dimensionality Reduction and Clustering</tspan></tspan>
+<tspan x="15" y="1300">• <tspan class="value">Predicting Building Energy Efficiency Using Machine Learning: A CRISP-DM Approach</tspan></tspan>
+<tspan x="15" y="1320">• <tspan class="value">Predicting Boston Housing Prices Using the KDD Methodology</tspan></tspan>
+<tspan x="15" y="1340">• <tspan class="value">Optimizing E-Commerce Marketing Campaigns Using SEMMA: An Exploratory Data Analysis of the UCI...</tspan></tspan>
+<tspan x="15" y="1360">• <tspan class="value">Predicting Heart Attack Risk Using Gradient Boosting: A Comprehensive Data Science Workflow</tspan></tspan>
 </text>
 
 <!-- Tools & Technologies Panel -->
-<text x="15" y="1430">
-<tspan x="15" y="1430" class="header">- Tools &amp; Technologies -—————————————————————————————————————————————————————————————————————————</tspan>
-<tspan x="15" y="1460">. <tspan class="key">Languages</tspan><tspan class="cc">:......... </tspan><tspan class="value">Python • JavaScript • TypeScript • Java • C++ • SQL</tspan></tspan>
-<tspan x="15" y="1480">. <tspan class="key">ML &amp; AI</tspan><tspan class="cc">:........... </tspan><tspan class="value">PyTorch • TensorFlow • Scikit-learn • OpenCV • Hugging Face</tspan></tspan>
-<tspan x="15" y="1500">. <tspan class="key">GenAI</tspan><tspan class="cc">:............. </tspan><tspan class="value">LangChain • Pinecone • LLaMA • Mistral • Stable Diffusion</tspan></tspan>
-<tspan x="15" y="1520">. <tspan class="key">Web Dev</tspan><tspan class="cc">:........... </tspan><tspan class="value">React.js • Node.js • Spring Boot • FastAPI • Express.js</tspan></tspan>
-<tspan x="15" y="1540">. <tspan class="key">Databases</tspan><tspan class="cc">:......... </tspan><tspan class="value">PostgreSQL • MongoDB • MySQL • Pinecone</tspan></tspan>
-<tspan x="15" y="1560">. <tspan class="key">Cloud &amp; DevOps</tspan><tspan class="cc">:..... </tspan><tspan class="value">AWS • GCP • Docker • Kubernetes • Jenkins</tspan></tspan>
+<text x="15" y="1400">
+<tspan x="15" y="1400" class="header">- Tools &amp; Technologies -—————————————————————————————————————————————————————————————————————————</tspan>
+<tspan x="15" y="1430">. <tspan class="key">Languages</tspan><tspan class="cc">:......... </tspan><tspan class="value">Python • JavaScript • TypeScript • Java • C++ • SQL</tspan></tspan>
+<tspan x="15" y="1450">. <tspan class="key">ML &amp; AI</tspan><tspan class="cc">:........... </tspan><tspan class="value">PyTorch • TensorFlow • Scikit-learn • OpenCV • Hugging Face</tspan></tspan>
+<tspan x="15" y="1470">. <tspan class="key">GenAI</tspan><tspan class="cc">:............. </tspan><tspan class="value">LangChain • Pinecone • LLaMA • Mistral • Stable Diffusion</tspan></tspan>
+<tspan x="15" y="1490">. <tspan class="key">Web Dev</tspan><tspan class="cc">:........... </tspan><tspan class="value">React.js • Node.js • Spring Boot • FastAPI • Express.js</tspan></tspan>
+<tspan x="15" y="1510">. <tspan class="key">Databases</tspan><tspan class="cc">:......... </tspan><tspan class="value">PostgreSQL • MongoDB • MySQL • Pinecone</tspan></tspan>
+<tspan x="15" y="1530">. <tspan class="key">Cloud &amp; DevOps</tspan><tspan class="cc">:..... </tspan><tspan class="value">AWS • GCP • Docker • Kubernetes • Jenkins</tspan></tspan>
 </text>
 
 <!-- Let's Connect Panel -->
-<text x="15" y="1610">
-<tspan x="15" y="1610" class="header">- Let's Connect -—————————————————————————————————————————————————————————————————————————————————</tspan>
-<tspan x="15" y="1640">. <tspan class="key">Email</tspan><tspan class="cc">:......................... </tspan><tspan class="value">pruthvik.sheth@gmail.com</tspan></tspan>
-<tspan x="15" y="1660">. <tspan class="key">Phone</tspan><tspan class="cc">:......................... </tspan><tspan class="value">+1 908-219-2446</tspan></tspan>
-<tspan x="15" y="1680">. <tspan class="key">LinkedIn</tspan><tspan class="cc">:...................... </tspan><tspan class="value">linkedin.com/in/pruthvik-sheth</tspan></tspan>
-<tspan x="15" y="1700">. <tspan class="key">GitHub</tspan><tspan class="cc">:........................ </tspan><tspan class="value">github.com/pruthvik-sheth</tspan></tspan>
-<tspan x="15" y="1720">. <tspan class="key">Location</tspan><tspan class="cc">:...................... </tspan><tspan class="value">San Jose, CA</tspan></tspan>
-<tspan x="15" y="1740">. <tspan class="key">Open_To</tspan><tspan class="cc">:....................... </tspan><tspan class="addColor">ML Engineer / AI Engineer roles</tspan></tspan>
-<tspan x="15" y="1760">. <tspan class="key">Status</tspan><tspan class="cc">:........................ </tspan><tspan class="addColor">Available for hire!</tspan></tspan>
+<text x="15" y="1580">
+<tspan x="15" y="1580" class="header">- Let's Connect -—————————————————————————————————————————————————————————————————————————————————</tspan>
+<tspan x="15" y="1610">. <tspan class="key">Email</tspan><tspan class="cc">:......................... </tspan><tspan class="value">pruthvik.sheth@gmail.com</tspan></tspan>
+<tspan x="15" y="1640">. <tspan class="key">LinkedIn</tspan><tspan class="cc">:...................... </tspan><tspan class="value">linkedin.com/in/pruthvik-sheth</tspan></tspan>
+<tspan x="15" y="1660">. <tspan class="key">GitHub</tspan><tspan class="cc">:........................ </tspan><tspan class="value">github.com/pruthvik-sheth</tspan></tspan>
+<tspan x="15" y="1680">. <tspan class="key">Location</tspan><tspan class="cc">:...................... </tspan><tspan class="value">San Jose, CA</tspan></tspan>
+<tspan x="15" y="1700">. <tspan class="key">Open_To</tspan><tspan class="cc">:....................... </tspan><tspan class="addColor">ML Engineer / AI Engineer roles</tspan></tspan>
+<tspan x="15" y="1720">. <tspan class="key">Status</tspan><tspan class="cc">:........................ </tspan><tspan class="addColor">Available for hire!</tspan></tspan>
 </text>
 
 <!-- Fun Fact Panel -->
-<text x="15" y="1810">
-<tspan x="15" y="1810" class="header">- Fun Fact -——————————————————————————————————————————————————————————————————————————————————————</tspan>
-<tspan x="15" y="1840" class="key">$ python -c "print(debugging_story())"</tspan>
-<tspan x="15" y="1870" class="value">I fine-tuned a Stable Diffusion model to generate floor plans</tspan>
-<tspan x="15" y="1890" class="value">and realized I'd been drawing rectangles wrong my whole life!</tspan>
-<tspan x="15" y="1920" class="cc"># Also: From 80k images to 97% accuracy - proof that</tspan>
-<tspan x="15" y="1940" class="cc"># good data beats fancy algorithms every time!</tspan>
-<tspan x="15" y="1970" class="addColor">$ echo "AI that scales, code that matters"</tspan>
+<text x="15" y="1760">
+<tspan x="15" y="1760" class="header">- Fun Fact -——————————————————————————————————————————————————————————————————————————————————————</tspan>
+<tspan x="15" y="1790" class="key">$ python -c "print(debugging_story())"</tspan>
+<tspan x="15" y="1820" class="value">I fine-tuned a Stable Diffusion model to generate floor plans</tspan>
+<tspan x="15" y="1840" class="value">and realized I'd been drawing rectangles wrong my whole life!</tspan>
+<tspan x="15" y="1870" class="cc"># Also: From 80k images to 97% accuracy - proof that</tspan>
+<tspan x="15" y="1890" class="cc"># good data beats fancy algorithms every time!</tspan>
+<tspan x="15" y="1920" class="addColor">$ echo "AI that scales, code that matters"</tspan>
 </text>
 </svg>
