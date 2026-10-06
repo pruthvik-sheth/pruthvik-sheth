@@ -1,1 +1,1 @@
-![My Profile](my_profile.svg)
+![My Profile](Pruthvik_Sheth.svg)
