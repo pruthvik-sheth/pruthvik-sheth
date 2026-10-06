@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="724" viewBox="0 0 1000 724" role="img" aria-label="Pruthvik Sheth, software engineer working on distributed systems and the infrastructure behind AI">
+  <title>Pruthvik Sheth</title>
+  <defs>
+    <radialGradient id="vig" cx="0.5" cy="0.45" r="0.62">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="0.7" stop-color="#fff" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.25"/>
+    </radialGradient>
+    <mask id="fade"><rect x="30" y="102" width="430" height="510" fill="url(#vig)"/></mask>
+  </defs>
+  <style>
+    text { font-family: "SF Mono", Menlo, Consolas, "DejaVu Sans Mono", "Liberation Mono", monospace; white-space: pre; }
+    .art    { font-size: 15px; fill: #c9d1d9; }
+    .t      { font-size: 14px; }
+    .name   { font-size: 26px; font-weight: 600; fill: #f0f6fc; letter-spacing: -0.01em; }
+    .prompt { fill: #3fb950; }
+    .cmd    { fill: #e6edf3; }
+    .out    { fill: #c9d1d9; }
+    .dim    { fill: #6e7681; }
+    .hash   { fill: #d29922; }
+    .link   { fill: #79c0ff; }
+    .title  { font-size: 12px; fill: #6e7681; }
+    .status { font-size: 12px; fill: #8b949e; }
+    .cursor { fill: #e6edf3; animation: blink 1.1s steps(2, start) infinite; }
+    @keyframes blink { to { visibility: hidden; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+
+  <rect width="1000" height="724" rx="12" fill="#0d1117"/>
+
+  <!-- window chrome -->
+  <circle cx="24" cy="22" r="5.5" fill="#30363d"/>
+  <circle cx="44" cy="22" r="5.5" fill="#30363d"/>
+  <circle cx="64" cy="22" r="5.5" fill="#30363d"/>
+  <text x="500.0" y="26" class="title" text-anchor="middle">pruthvik — zsh — 118×36</text>
+  <line x1="0" y1="44" x2="1000" y2="44" stroke="#21262d"/>
+
+  <text x="40" y="92" class="t"><tspan class="prompt">$ </tspan><tspan class="cmd">cat me.txt</tspan></text>
+  <text class="art" mask="url(#fade)">
+    <tspan x="40" y="122">          ....:::::------==:.                </tspan>
+    <tspan x="40" y="140">        .:::::::::::--=++===++:              </tspan>
+    <tspan x="40" y="158">     ..::....::::::::::---=--=++:.           </tspan>
+    <tspan x="40" y="176">    :-::....:.....::....::::---=++=.         </tspan>
+    <tspan x="40" y="194">   :+:::...................::::--=+**.       </tspan>
+    <tspan x="40" y="212">   --::..........:::--=+******=---==*#.      </tspan>
+    <tspan x="40" y="230">   =-::...:::-==+*%%##@@@@@@@@@@%===+##      </tspan>
+    <tspan x="40" y="248">   =-::.::--=*%##@@@@@@@@@@@@@@@@@*+*@%      </tspan>
+    <tspan x="40" y="266">   --::::-=+%%##@@@@@@@@@@@@@@@@@@%*%@+      </tspan>
+    <tspan x="40" y="284">   :+:::-=*%#@@@@@@@@@@@@@@@@@@@@@**#@=      </tspan>
+    <tspan x="40" y="302">    =+:-==----=*%#@@@@@@@@#####@@@@+#@       </tspan>
+    <tspan x="40" y="320">     -=+-::::::::-=%##*+=--=*%%%%#@##.       </tspan>
+    <tspan x="40" y="338">     .**==-:::::::-+@@@%+=--+%%#@@@@@.       </tspan>
+    <tspan x="40" y="356">     =#*==:::....:=#@@@@%==-+##@@@@@@#       </tspan>
+    <tspan x="40" y="374">      %#*%%%%%%%%%%#@@@@@@@@@@@@@@@@@.       </tspan>
+    <tspan x="40" y="392">       %%%#@@@@@#%#@@@@@@@@@@@@@@@@@.        </tspan>
+    <tspan x="40" y="410">       .*+%##@@@*+--+##**@@@@@@@@@@%         </tspan>
+    <tspan x="40" y="428">        =++*%##%=::-++#@@@@@@@@@@@@.         </tspan>
+    <tspan x="40" y="446">         ===+**=====%##@@@@@@@@@@@*          </tspan>
+    <tspan x="40" y="464">          -====-:::-=*%%%%%#@@@@#=.:::::--:..</tspan>
+    <tspan x="40" y="482">          .:------====+%#@@@@@#%+...::::::-=+</tspan>
+    <tspan x="40" y="500">.........   ..:--=+*%#@@@@@@%**#*....::::::::</tspan>
+    <tspan x="40" y="518">.......       ...:-=*%####%*+%@@:...........:</tspan>
+    <tspan x="40" y="536">.......        ........::-=*##%..............</tspan>
+    <tspan x="40" y="554">.....          .......::=++*+-...............</tspan>
+    <tspan x="40" y="572">.....          ..........::.. .. ............</tspan>
+    <tspan x="40" y="590">.....           ........... .................</tspan>
+  </text>
+
+  <text x="480" y="92" class="t"><tspan class="prompt">$ </tspan><tspan class="cmd">whoami</tspan></text>
+  <text x="480" y="120" class="name">Pruthvik Sheth</text>
+  <text x="480" y="164" class="t"><tspan class="prompt">$ </tspan><tspan class="cmd">cat about.txt</tspan></text>
+  <text x="480" y="184" class="t out">Software engineer working on distributed systems</text>
+  <text x="480" y="204" class="t out">and the infrastructure behind AI.</text>
+  <text x="480" y="224" class="t out">MS in Software Engineering at SJSU, Dec 2026.</text>
+  <text x="480" y="244" class="t out">Most recently on Snowflake's replication team.</text>
+  <text x="480" y="284" class="t"><tspan class="prompt">$ </tspan><tspan class="cmd">git log --oneline -3</tspan></text>
+  <text x="480" y="304" class="t"><tspan class="hash">a1f3c9e</tspan><tspan class="out">  Building KVCache, a distributed cache for LLMs</tspan></text>
+  <text x="480" y="324" class="t"><tspan class="hash">7be2d04</tspan><tspan class="out">  Reading Presto and Iceberg internals</tspan></text>
+  <text x="480" y="344" class="t"><tspan class="hash">c0ffee1</tspan><tspan class="out">  Shipped EDFlow AI, 2nd place at CalHacks 2025</tspan></text>
+  <text x="480" y="384" class="t"><tspan class="prompt">$ </tspan><tspan class="cmd">tree skills</tspan></text>
+  <text x="480" y="404" class="t out">skills</text>
+  <text x="480" y="424" class="t"><tspan class="dim">├── </tspan><tspan class="out">languages</tspan></text>
+  <text x="618" y="424" class="t dim">Java · Python · Go · TypeScript · SQL</text>
+  <text x="480" y="444" class="t"><tspan class="dim">├── </tspan><tspan class="out">systems</tspan></text>
+  <text x="618" y="444" class="t dim">Distributed systems · gRPC · FoundationDB</text>
+  <text x="480" y="464" class="t"><tspan class="dim">├── </tspan><tspan class="out">data</tspan></text>
+  <text x="618" y="464" class="t dim">PostgreSQL · Redis · Snowflake · Pinecone</text>
+  <text x="480" y="484" class="t"><tspan class="dim">├── </tspan><tspan class="out">ai</tspan></text>
+  <text x="618" y="484" class="t dim">PyTorch · LangGraph · Hugging Face · RAG</text>
+  <text x="480" y="504" class="t"><tspan class="dim">└── </tspan><tspan class="out">infra</tspan></text>
+  <text x="618" y="504" class="t dim">AWS · Kubernetes · Docker · Airflow</text>
+  <text x="480" y="544" class="t"><tspan class="prompt">$ </tspan><tspan class="cmd">cat contact</tspan></text>
+  <text x="480" y="564" class="t link">pruthvik.sheth@gmail.com</text>
+  <text x="480" y="584" class="t link">linkedin.com/in/pruthvik-sheth</text>
+  <text x="480" y="604" class="t link">github.com/pruthvik-sheth</text>
+  <text x="480" y="644" class="t"><tspan class="prompt">$ </tspan><tspan class="cursor">▍</tspan></text>
+
+  <!-- status bar -->
+  <path d="M0 690 H1000 V712 a12 12 0 0 1 -12 12 H12 a12 12 0 0 1 -12 -12 Z" fill="#161b22"/>
+  <line x1="0" y1="690" x2="1000" y2="690" stroke="#21262d"/>
+  <circle cx="26" cy="707.0" r="3.5" fill="#3fb950"/>
+  <text x="38" y="711.0" class="status">San Jose, CA</text>
+  <text x="976" y="711.0" class="status" text-anchor="end">updated Oct 2026</text>
+</svg>
