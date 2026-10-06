@@ -1,175 +1,105 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1062px" height="1950px" font-size="16px">
-<style>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="724" viewBox="0 0 1000 724" role="img" aria-label="Pruthvik Sheth, software engineer working on distributed systems and the infrastructure behind AI">
+  <title>Pruthvik Sheth</title>
+  <defs>
+    <radialGradient id="vig" cx="0.5" cy="0.45" r="0.62">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="0.7" stop-color="#fff" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.25"/>
+    </radialGradient>
+    <mask id="fade"><rect x="30" y="102" width="430" height="510" fill="url(#vig)"/></mask>
+  </defs>
+  <style>
+    text { font-family: "SF Mono", Menlo, Consolas, "DejaVu Sans Mono", "Liberation Mono", monospace; white-space: pre; }
+    .art    { font-size: 15px; fill: #c9d1d9; }
+    .t      { font-size: 14px; }
+    .name   { font-size: 26px; font-weight: 600; fill: #f0f6fc; letter-spacing: -0.01em; }
+    .prompt { fill: #3fb950; }
+    .cmd    { fill: #e6edf3; }
+    .out    { fill: #c9d1d9; }
+    .dim    { fill: #6e7681; }
+    .hash   { fill: #d29922; }
+    .link   { fill: #79c0ff; }
+    .title  { font-size: 12px; fill: #6e7681; }
+    .status { font-size: 12px; fill: #8b949e; }
+    .cursor { fill: #e6edf3; animation: blink 1.1s steps(2, start) infinite; }
+    @keyframes blink { to { visibility: hidden; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
 
-@font-face {
-src: local('Consolas'), local('Consolas Bold');
-font-family: 'ConsolasFallback';
-font-display: swap;
--webkit-size-adjust: 109%;
-size-adjust: 109%;
-}
-.key {fill: #ffa657;}
-.value {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
-.cc {fill: #616e7f;}
-.ascii {fill: #c9d1d9;}
-.header {fill: #c9d1d9;}
-text, tspan {white-space: pre;}
+  <rect width="1000" height="724" rx="12" fill="#0d1117"/>
 
-</style>
-<rect width="1062px" height="1950px" fill="#161b22" rx="15"/>
-<text x="15" y="30" class="ascii">
-<tspan x="15" y="30">          ....:::::------==:.                </tspan>
-<tspan x="15" y="50">        .:::::::::::--=++===++:              </tspan>
-<tspan x="15" y="70">     ..::....::::::::::---=--=++:.           </tspan>
-<tspan x="15" y="90">    :-::....:.....::....::::---=++=.         </tspan>
-<tspan x="15" y="110">   :+:::...................::::--=+**.       </tspan>
-<tspan x="15" y="130">   --::..........:::--=+******=---==*#.      </tspan>
-<tspan x="15" y="150">   =-::...:::-==+*%%##@@@@@@@@@@%===+##      </tspan>
-<tspan x="15" y="170">   =-::.::--=*%##@@@@@@@@@@@@@@@@@*+*@%      </tspan>
-<tspan x="15" y="190">   --::::-=+%%##@@@@@@@@@@@@@@@@@@%*%@+      </tspan>
-<tspan x="15" y="210">   :+:::-=*%#@@@@@@@@@@@@@@@@@@@@@**#@=      </tspan>
-<tspan x="15" y="230">    =+:-==----=*%#@@@@@@@@#####@@@@+#@       </tspan>
-<tspan x="15" y="250">     -=+-::::::::-=%##*+=--=*%%%%#@##.       </tspan>
-<tspan x="15" y="270">     .**==-:::::::-+@@@%+=--+%%#@@@@@.       </tspan>
-<tspan x="15" y="290">     =#*==:::....:=#@@@@%==-+##@@@@@@#       </tspan>
-<tspan x="15" y="310">      %#*%%%%%%%%%%#@@@@@@@@@@@@@@@@@.       </tspan>
-<tspan x="15" y="330">       %%%#@@@@@#%#@@@@@@@@@@@@@@@@@.        </tspan>
-<tspan x="15" y="350">       .*+%##@@@*+--+##**@@@@@@@@@@%         </tspan>
-<tspan x="15" y="370">        =++*%##%=::-++#@@@@@@@@@@@@.         </tspan>
-<tspan x="15" y="390">         ===+**=====%##@@@@@@@@@@@*          </tspan>
-<tspan x="15" y="410">          -====-:::-=*%%%%%#@@@@#=.:::::--:..</tspan>
-<tspan x="15" y="430">          .:------====+%#@@@@@#%+...::::::-=+</tspan>
-<tspan x="15" y="450">.........   ..:--=+*%#@@@@@@%**#*....::::::::</tspan>
-<tspan x="15" y="470">.......       ...:-=*%####%*+%@@:...........:</tspan>
-<tspan x="15" y="490">.......        ........::-=*##%..............</tspan>
-<tspan x="15" y="510">.....          .......::=++*+-...............</tspan>
-<tspan x="15" y="530">.....          ..........::.. .. ............</tspan>
-<tspan x="15" y="550">.....           ........... .................</tspan>
-</text>
-<text x="480" y="50">
-<tspan x="480" y="50" class="key">$ whoami</tspan>
-<tspan x="480" y="75" class="value">Pruthvik Sheth - ML Engineer building scalable AI systems</tspan>
+  <!-- window chrome -->
+  <circle cx="24" cy="22" r="5.5" fill="#30363d"/>
+  <circle cx="44" cy="22" r="5.5" fill="#30363d"/>
+  <circle cx="64" cy="22" r="5.5" fill="#30363d"/>
+  <text x="500.0" y="26" class="title" text-anchor="middle">pruthvik — zsh — 118×36</text>
+  <line x1="0" y1="44" x2="1000" y2="44" stroke="#21262d"/>
 
-<tspan x="480" y="105" class="key">$ pwd</tspan>
-<tspan x="480" y="125" class="value">/home/san-jose/ms-software-engineering-student</tspan>
+  <text x="40" y="92" class="t"><tspan class="prompt">$ </tspan><tspan class="cmd">cat me.txt</tspan></text>
+  <text class="art" mask="url(#fade)">
+    <tspan x="40" y="122">          ....:::::------==:.                </tspan>
+    <tspan x="40" y="140">        .:::::::::::--=++===++:              </tspan>
+    <tspan x="40" y="158">     ..::....::::::::::---=--=++:.           </tspan>
+    <tspan x="40" y="176">    :-::....:.....::....::::---=++=.         </tspan>
+    <tspan x="40" y="194">   :+:::...................::::--=+**.       </tspan>
+    <tspan x="40" y="212">   --::..........:::--=+******=---==*#.      </tspan>
+    <tspan x="40" y="230">   =-::...:::-==+*%%##@@@@@@@@@@%===+##      </tspan>
+    <tspan x="40" y="248">   =-::.::--=*%##@@@@@@@@@@@@@@@@@*+*@%      </tspan>
+    <tspan x="40" y="266">   --::::-=+%%##@@@@@@@@@@@@@@@@@@%*%@+      </tspan>
+    <tspan x="40" y="284">   :+:::-=*%#@@@@@@@@@@@@@@@@@@@@@**#@=      </tspan>
+    <tspan x="40" y="302">    =+:-==----=*%#@@@@@@@@#####@@@@+#@       </tspan>
+    <tspan x="40" y="320">     -=+-::::::::-=%##*+=--=*%%%%#@##.       </tspan>
+    <tspan x="40" y="338">     .**==-:::::::-+@@@%+=--+%%#@@@@@.       </tspan>
+    <tspan x="40" y="356">     =#*==:::....:=#@@@@%==-+##@@@@@@#       </tspan>
+    <tspan x="40" y="374">      %#*%%%%%%%%%%#@@@@@@@@@@@@@@@@@.       </tspan>
+    <tspan x="40" y="392">       %%%#@@@@@#%#@@@@@@@@@@@@@@@@@.        </tspan>
+    <tspan x="40" y="410">       .*+%##@@@*+--+##**@@@@@@@@@@%         </tspan>
+    <tspan x="40" y="428">        =++*%##%=::-++#@@@@@@@@@@@@.         </tspan>
+    <tspan x="40" y="446">         ===+**=====%##@@@@@@@@@@@*          </tspan>
+    <tspan x="40" y="464">          -====-:::-=*%%%%%#@@@@#=.:::::--:..</tspan>
+    <tspan x="40" y="482">          .:------====+%#@@@@@#%+...::::::-=+</tspan>
+    <tspan x="40" y="500">.........   ..:--=+*%#@@@@@@%**#*....::::::::</tspan>
+    <tspan x="40" y="518">.......       ...:-=*%####%*+%@@:...........:</tspan>
+    <tspan x="40" y="536">.......        ........::-=*##%..............</tspan>
+    <tspan x="40" y="554">.....          .......::=++*+-...............</tspan>
+    <tspan x="40" y="572">.....          ..........::.. .. ............</tspan>
+    <tspan x="40" y="590">.....           ........... .................</tspan>
+  </text>
 
-<tspan x="480" y="155" class="key">$ cat about.txt</tspan>
-<tspan x="480" y="175" class="value">I build production-grade AI systems that scale.</tspan>
-<tspan x="480" y="195" class="value">Specialize in RAG, computer vision, and full-stack ML apps.</tspan>
-<tspan x="480" y="215" class="value">Currently pursuing MS in Software Engineering at SJSU.</tspan>
+  <text x="480" y="92" class="t"><tspan class="prompt">$ </tspan><tspan class="cmd">whoami</tspan></text>
+  <text x="480" y="120" class="name">Pruthvik Sheth</text>
+  <text x="480" y="164" class="t"><tspan class="prompt">$ </tspan><tspan class="cmd">cat about.txt</tspan></text>
+  <text x="480" y="184" class="t out">Software engineer working on distributed systems</text>
+  <text x="480" y="204" class="t out">and the infrastructure behind AI.</text>
+  <text x="480" y="224" class="t out">MS in Software Engineering at SJSU, Dec 2026.</text>
+  <text x="480" y="244" class="t out">Most recently on Snowflake's replication team.</text>
+  <text x="480" y="284" class="t"><tspan class="prompt">$ </tspan><tspan class="cmd">git log --oneline -3</tspan></text>
+  <text x="480" y="304" class="t"><tspan class="hash">a1f3c9e</tspan><tspan class="out">  Building KVCache, a distributed cache for LLMs</tspan></text>
+  <text x="480" y="324" class="t"><tspan class="hash">7be2d04</tspan><tspan class="out">  Reading Presto and Iceberg internals</tspan></text>
+  <text x="480" y="344" class="t"><tspan class="hash">c0ffee1</tspan><tspan class="out">  Shipped EDFlow AI, 2nd place at CalHacks 2025</tspan></text>
+  <text x="480" y="384" class="t"><tspan class="prompt">$ </tspan><tspan class="cmd">tree skills</tspan></text>
+  <text x="480" y="404" class="t out">skills</text>
+  <text x="480" y="424" class="t"><tspan class="dim">├── </tspan><tspan class="out">languages</tspan></text>
+  <text x="618" y="424" class="t dim">Java · Python · Go · TypeScript · SQL</text>
+  <text x="480" y="444" class="t"><tspan class="dim">├── </tspan><tspan class="out">systems</tspan></text>
+  <text x="618" y="444" class="t dim">Distributed systems · gRPC · FoundationDB</text>
+  <text x="480" y="464" class="t"><tspan class="dim">├── </tspan><tspan class="out">data</tspan></text>
+  <text x="618" y="464" class="t dim">PostgreSQL · Redis · Snowflake · Pinecone</text>
+  <text x="480" y="484" class="t"><tspan class="dim">├── </tspan><tspan class="out">ai</tspan></text>
+  <text x="618" y="484" class="t dim">PyTorch · LangGraph · Hugging Face · RAG</text>
+  <text x="480" y="504" class="t"><tspan class="dim">└── </tspan><tspan class="out">infra</tspan></text>
+  <text x="618" y="504" class="t dim">AWS · Kubernetes · Docker · Airflow</text>
+  <text x="480" y="544" class="t"><tspan class="prompt">$ </tspan><tspan class="cmd">cat contact</tspan></text>
+  <text x="480" y="564" class="t link">pruthvik.sheth@gmail.com</text>
+  <text x="480" y="584" class="t link">linkedin.com/in/pruthvik-sheth</text>
+  <text x="480" y="604" class="t link">github.com/pruthvik-sheth</text>
+  <text x="480" y="644" class="t"><tspan class="prompt">$ </tspan><tspan class="cursor">▍</tspan></text>
 
-<tspan x="480" y="245" class="key">$ ls expertise/</tspan>
-<tspan x="480" y="265" class="value">GenAI/  ComputerVision/  FullStackDev/  MLOps/</tspan>
-
-<tspan x="480" y="295" class="key">$ echo $MISSION</tspan>
-<tspan x="480" y="315" class="value">"Bridging cutting-edge AI research with scalable software"</tspan>
-
-<tspan x="480" y="345" class="key">$ uptime</tspan>
-<tspan x="480" y="365" class="value">Available for ML Engineer roles!</tspan>
-
-<tspan x="480" y="395" class="key">$ cat achievements.log</tspan>
-<tspan x="480" y="415" class="addColor">• MS @ SJSU (GPA: 3.90/4.0)</tspan>
-<tspan x="480" y="435" class="addColor">• $6,000 EES Scholarship winner</tspan>
-<tspan x="480" y="455" class="addColor">• 600k monthly visitors with AI content</tspan>
-
-<tspan x="480" y="485" class="key">$ contact --info</tspan>
-<tspan x="480" y="505" class="value">pruthvik.sheth@gmail.com</tspan>
-<tspan x="480" y="525" class="value">linkedin.com/in/pruthvik-sheth</tspan>
-</text>
-
-<!-- Featured Projects Panel -->
-<text x="15" y="620">
-<tspan x="15" y="620" class="header">- Featured Projects -—————————————————————————————————————————————————————————————————————————————</tspan>
-
-<tspan x="15" y="660" class="key">🏠 Floor Forge AI</tspan>
-<tspan x="15" y="680">. <tspan class="key">Tech</tspan><tspan class="cc">:........ </tspan><tspan class="value">PyTorch, Stable Diffusion, React.js</tspan></tspan>
-<tspan x="15" y="700">. <tspan class="key">Status</tspan><tspan class="cc">:...... </tspan><tspan class="addColor">Production Ready</tspan></tspan>
-<tspan x="15" y="720">. <tspan class="key">Impact</tspan><tspan class="cc">:...... </tspan><tspan class="value">68% loss reduction, sub-30s inference</tspan></tspan>
-<tspan x="15" y="740">. <tspan class="key">Features</tspan><tspan class="cc">:..... </tspan><tspan class="value">70% GPU efficiency improvement</tspan></tspan>
-
-<tspan x="540" y="660" class="key">₿ Quant AI</tspan>
-<tspan x="540" y="680">. <tspan class="key">Tech</tspan><tspan class="cc">:........ </tspan><tspan class="value">LLaMA 3.2, TimeGPT, LangChain</tspan></tspan>
-<tspan x="540" y="700">. <tspan class="key">Status</tspan><tspan class="cc">:...... </tspan><tspan class="addColor">Live Platform</tspan></tspan>
-<tspan x="540" y="720">. <tspan class="key">Impact</tspan><tspan class="cc">:...... </tspan><tspan class="value">94% accuracy in price prediction</tspan></tspan>
-<tspan x="540" y="740">. <tspan class="key">Features</tspan><tspan class="cc">:..... </tspan><tspan class="value">80% manual analysis time saved</tspan></tspan>
-
-<tspan x="15" y="780" class="key">🏘️ Real Estate RAG Chatbot</tspan>
-<tspan x="15" y="800">. <tspan class="key">Tech</tspan><tspan class="cc">:........ </tspan><tspan class="value">Python, LangChain, Pinecone</tspan></tspan>
-<tspan x="15" y="820">. <tspan class="key">Status</tspan><tspan class="cc">:...... </tspan><tspan class="addColor">Production Deployed</tspan></tspan>
-<tspan x="15" y="840">. <tspan class="key">Impact</tspan><tspan class="cc">:...... </tspan><tspan class="value">95% search accuracy achieved</tspan></tspan>
-<tspan x="15" y="860">. <tspan class="key">Features</tspan><tspan class="cc">:..... </tspan><tspan class="value">70% discovery time reduction</tspan></tspan>
-
-<tspan x="540" y="780" class="key">🚨 Rapid Reach</tspan>
-<tspan x="540" y="800">. <tspan class="key">Tech</tspan><tspan class="cc">:........ </tspan><tspan class="value">React.js, Node.js, MongoDB</tspan></tspan>
-<tspan x="540" y="820">. <tspan class="key">Status</tspan><tspan class="cc">:...... </tspan><tspan class="addColor">Live Application</tspan></tspan>
-<tspan x="540" y="840">. <tspan class="key">Impact</tspan><tspan class="cc">:...... </tspan><tspan class="value">60% response time reduction</tspan></tspan>
-<tspan x="540" y="860">. <tspan class="key">Features</tspan><tspan class="cc">:..... </tspan><tspan class="value">95% accessibility compliance</tspan></tspan>
-</text>
-
-<!-- Focus Areas Panel -->
-<text x="15" y="910">
-<tspan x="15" y="910" class="header">- Focus Areas -———————————————————————————————————————————————————————————————————————————————————</tspan>
-
-<tspan x="15" y="940" class="key">Generative AI &amp; LLMs:</tspan>
-<tspan x="15" y="960">. <tspan class="value">RAG Systems &amp; Vector Databases (Pinecone, LangChain)</tspan></tspan>
-<tspan x="15" y="980">. <tspan class="value">LLM Fine-tuning (Mistral-7B, LLaMA 3.2)</tspan></tspan>
-<tspan x="15" y="1000">. <tspan class="value">Computer Vision (YOLOv8, Stable Diffusion)</tspan></tspan>
-
-<tspan x="15" y="1030" class="key">Full-Stack ML Engineering:</tspan>
-<tspan x="15" y="1050">. <tspan class="value">Production ML Pipelines (PyTorch, Hugging Face)</tspan></tspan>
-<tspan x="15" y="1070">. <tspan class="value">Real-time AI Applications (Socket.IO, WebRTC)</tspan></tspan>
-<tspan x="15" y="1090">. <tspan class="value">Scalable Backend Systems (Spring Boot, FastAPI)</tspan></tspan>
-
-<tspan x="15" y="1120" class="key">Software Engineering:</tspan>
-<tspan x="15" y="1140">. <tspan class="value">Microservices Architecture (Docker, Kubernetes)</tspan></tspan>
-<tspan x="15" y="1160">. <tspan class="value">Database Design &amp; Optimization (PostgreSQL, MongoDB)</tspan></tspan>
-<tspan x="15" y="1180">. <tspan class="value">Cloud Infrastructure (AWS, GCP)</tspan></tspan>
-</text>
-
-<!-- Latest Blogs & Articles Panel -->
-<text x="15" y="1230">
-<tspan x="15" y="1230" class="header">- Latest Blogs &amp; Articles -——————————————————————————————————————————————————————————————————————</tspan>
-<tspan x="15" y="1260">• <tspan class="value">TabPFN: A Revolutionary Transformer for Tabular Classification in Seconds</tspan></tspan>
-<tspan x="15" y="1280">• <tspan class="value">Distributional Reduction: A Novel Framework Unifying Dimensionality Reduction and Clustering</tspan></tspan>
-<tspan x="15" y="1300">• <tspan class="value">Predicting Building Energy Efficiency Using Machine Learning: A CRISP-DM Approach</tspan></tspan>
-<tspan x="15" y="1320">• <tspan class="value">Predicting Boston Housing Prices Using the KDD Methodology</tspan></tspan>
-<tspan x="15" y="1340">• <tspan class="value">Optimizing E-Commerce Marketing Campaigns Using SEMMA: An Exploratory Data Analysis of the UCI...</tspan></tspan>
-<tspan x="15" y="1360">• <tspan class="value">Predicting Heart Attack Risk Using Gradient Boosting: A Comprehensive Data Science Workflow</tspan></tspan>
-</text>
-
-<!-- Tools & Technologies Panel -->
-<text x="15" y="1400">
-<tspan x="15" y="1400" class="header">- Tools &amp; Technologies -—————————————————————————————————————————————————————————————————————————</tspan>
-<tspan x="15" y="1430">. <tspan class="key">Languages</tspan><tspan class="cc">:......... </tspan><tspan class="value">Python • JavaScript • TypeScript • Java • C++ • SQL</tspan></tspan>
-<tspan x="15" y="1450">. <tspan class="key">ML &amp; AI</tspan><tspan class="cc">:........... </tspan><tspan class="value">PyTorch • TensorFlow • Scikit-learn • OpenCV • Hugging Face</tspan></tspan>
-<tspan x="15" y="1470">. <tspan class="key">GenAI</tspan><tspan class="cc">:............. </tspan><tspan class="value">LangChain • Pinecone • LLaMA • Mistral • Stable Diffusion</tspan></tspan>
-<tspan x="15" y="1490">. <tspan class="key">Web Dev</tspan><tspan class="cc">:........... </tspan><tspan class="value">React.js • Node.js • Spring Boot • FastAPI • Express.js</tspan></tspan>
-<tspan x="15" y="1510">. <tspan class="key">Databases</tspan><tspan class="cc">:......... </tspan><tspan class="value">PostgreSQL • MongoDB • MySQL • Pinecone</tspan></tspan>
-<tspan x="15" y="1530">. <tspan class="key">Cloud &amp; DevOps</tspan><tspan class="cc">:..... </tspan><tspan class="value">AWS • GCP • Docker • Kubernetes • Jenkins</tspan></tspan>
-</text>
-
-<!-- Let's Connect Panel -->
-<text x="15" y="1580">
-<tspan x="15" y="1580" class="header">- Let's Connect -—————————————————————————————————————————————————————————————————————————————————</tspan>
-<tspan x="15" y="1610">. <tspan class="key">Email</tspan><tspan class="cc">:......................... </tspan><tspan class="value">pruthvik.sheth@gmail.com</tspan></tspan>
-<tspan x="15" y="1640">. <tspan class="key">LinkedIn</tspan><tspan class="cc">:...................... </tspan><tspan class="value">linkedin.com/in/pruthvik-sheth</tspan></tspan>
-<tspan x="15" y="1660">. <tspan class="key">GitHub</tspan><tspan class="cc">:........................ </tspan><tspan class="value">github.com/pruthvik-sheth</tspan></tspan>
-<tspan x="15" y="1680">. <tspan class="key">Location</tspan><tspan class="cc">:...................... </tspan><tspan class="value">San Jose, CA</tspan></tspan>
-<tspan x="15" y="1700">. <tspan class="key">Open_To</tspan><tspan class="cc">:....................... </tspan><tspan class="addColor">ML Engineer / AI Engineer roles</tspan></tspan>
-<tspan x="15" y="1720">. <tspan class="key">Status</tspan><tspan class="cc">:........................ </tspan><tspan class="addColor">Available for hire!</tspan></tspan>
-</text>
-
-<!-- Fun Fact Panel -->
-<text x="15" y="1760">
-<tspan x="15" y="1760" class="header">- Fun Fact -——————————————————————————————————————————————————————————————————————————————————————</tspan>
-<tspan x="15" y="1790" class="key">$ python -c "print(debugging_story())"</tspan>
-<tspan x="15" y="1820" class="value">I fine-tuned a Stable Diffusion model to generate floor plans</tspan>
-<tspan x="15" y="1840" class="value">and realized I'd been drawing rectangles wrong my whole life!</tspan>
-<tspan x="15" y="1870" class="cc"># Also: From 80k images to 97% accuracy - proof that</tspan>
-<tspan x="15" y="1890" class="cc"># good data beats fancy algorithms every time!</tspan>
-<tspan x="15" y="1920" class="addColor">$ echo "AI that scales, code that matters"</tspan>
-</text>
+  <!-- status bar -->
+  <path d="M0 690 H1000 V712 a12 12 0 0 1 -12 12 H12 a12 12 0 0 1 -12 -12 Z" fill="#161b22"/>
+  <line x1="0" y1="690" x2="1000" y2="690" stroke="#21262d"/>
+  <circle cx="26" cy="707.0" r="3.5" fill="#3fb950"/>
+  <text x="38" y="711.0" class="status">San Jose, CA</text>
+  <text x="976" y="711.0" class="status" text-anchor="end">updated Oct 2026</text>
 </svg>
